@@ -1,5 +1,6 @@
-# Project Title:
-Hamburger Restaurant Menu 
+# Project Title (Work-In-Progress):
+
+Hamburger Restaurant Menu App
 
 ## Tech Stack: 
 
